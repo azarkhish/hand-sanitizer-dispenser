@@ -1,0 +1,14 @@
+RAM Allocation
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+
+EEPROM Allocation
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+save_delay                                                        0x0000       2
+pump_delay                                                        0x0002       2
+first_time_k                                                      0x0004       1
+
+Register Allocation
+Variable                                                          Register  Size
+--------------------------------------------------------------------------------

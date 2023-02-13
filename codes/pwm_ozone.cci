@@ -1,0 +1,9 @@
+VERSION:3 SOURCE_TIMESTAMP:518A6DC9
+NODE:I LEVEL:0 LINE:23 "C:\cvavr\inc\tiny13.h"
+NODE:I LEVEL:0 LINE:24 "C:\cvavr\inc\delay.h"
+NODE:M LEVEL:0 LINE:26 "ADC_VREF_TYPE"
+NODE:V LEVEL:0 LINE:45 "save_delay -> EEPROM:????"
+NODE:V LEVEL:0 LINE:46 "pump_delay -> EEPROM:????"
+NODE:V LEVEL:0 LINE:47 "first_time_k -> EEPROM:????"
+NODE:F LEVEL:0 LINE:48 "main(void)"
+NODE:F LEVEL:0 LINE:201 "calc_pump_delay(void)"

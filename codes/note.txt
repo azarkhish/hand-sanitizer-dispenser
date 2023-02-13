@@ -1,0 +1,14 @@
+Ñæí ÓäÓæÑ
+
+vcc = 5v
+trig = echo = pb.2
+out = nc
+gnd = 0v
+
+--------------------
+Ñæí ãí˜Ñæ
+
+pb.0 -> out --> hand led
+pb.1 -> out --> pump relay
+pb.2 -> in  --> ultrasonic sensor
+pb.3 -> not used
